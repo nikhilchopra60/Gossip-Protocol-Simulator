@@ -1,21 +1,10 @@
-# Project2
+A simulation of Gossip Protocol and Push-Sum protocol in Elixir. 
 
-**TODO: Add description**
+This is implemented in 4 network topologies - 
+- Full Network
+- 2D Grid
+- Imperfect 2D
+- Line Network
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `project2` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:project2, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/project2](https://hexdocs.pm/project2).
+Please refer to ReadMe.txt and Report for the implementation details.
 
